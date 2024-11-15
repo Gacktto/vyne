@@ -1,5 +1,5 @@
 # vyne
-Vídeo Youtuber Networking Engagement  App
+Video Youtuber Networking Engagement  App
 
 
 ### Lint the files
