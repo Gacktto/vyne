@@ -1,6 +1,22 @@
 # vyne
 Vídeo Youtuber Networking Engagement  App
 
+
+### Lint the files
+```bash
+yarn lint
+# or
+npm run lint
+```
+
+
+### Format the files
+```bash
+yarn format
+# or
+npm run format
+```
+
 Copyright 2024 Gacktto
 
    Licensed under the Apache License, Version 2.0 (the "License");
