@@ -1,7 +1,7 @@
 # vyne
 Vídeo Youtuber Networking Engagement  App
 
-Copyright 2024 Gackkto
+Copyright 2024 Gacktto
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
